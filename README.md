@@ -1,2 +1,2 @@
-# Protection-of-professional-activity-in-the-field
+# Практична робота № 2. Розробка дешифратора SHA256
 Чернявський 505
